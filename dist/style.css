@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background-color: slategray;
+    background-color: beige;
 }
 
 header {
@@ -35,9 +35,9 @@ a {
 }
 
 .card-header {
-    background-color: lightseagreen;
-    border-top-right-radius: 20px;
-    border-top-left-radius: 20px;
+    background-color: rgb(32, 178, 129);
+    border-top-right-radius: 20px !important;
+    border-top-left-radius: 20px !important;
 }
 
 .card-content {
@@ -46,7 +46,7 @@ a {
 
 .card-header p,
 .card-content p {
-    color: whitesmoke;
+    color: rgb(255, 251, 9);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 1.1rem;
     text-align: center;
