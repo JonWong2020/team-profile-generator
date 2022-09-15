@@ -7,7 +7,7 @@ const roleTitles = {
 const getGeneratedWorkerInfo = (role, data) => {
     console.log(role, data);
     if (role === 'github') {
-        return `<a href="${data}">${data}</a>`;
+        return `<a href="https://github.com/${data}">${data}</a>`;
     } else {
         return data;
     }
@@ -45,7 +45,7 @@ const generatePage = data => {
 
     data.forEach(worker => {
         const employeeRoleInfo = roleTitles[worker.role];
-        const employeeRoleData = roleTitles[employeeRoleInfo.value];
+        const employeeRoleData = worker[employeeRoleInfo.value];
 
         const employeeCard = `
         <div class="card flex-column flex-start m-3">
