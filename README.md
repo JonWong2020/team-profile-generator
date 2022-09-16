@@ -19,7 +19,7 @@
 
 
 
-  Otherwise, you can use the link attached here to view the video:    
+  Otherwise, you can use the link in the `Links` section to view the video.
   
   ## Licenses
     This project is covered under MIT license.  Click on the license badge at the top of the README to learn more.
@@ -35,6 +35,8 @@
   ## Links 
   
   Repo:  https://github.com/JonWong2020/team-profile-generator
+
+  Demo Link:  https://drive.google.com/file/d/1Bc55uw22C1k3iMil28paRYq-L6n76FbM/view
   
   ## Questions
   Have questions about this project?  
