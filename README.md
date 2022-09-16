@@ -28,15 +28,18 @@ https://user-images.githubusercontent.com/110364895/190562448-7436c7c2-ed75-4978
   Contributors:  Jonathan N. Wong
   
   ## Tests
-  A sample of a team profile generated with the application can be found in the repo and will be labed:  `my-team-sample.html`.
-  
-  [Please Note:  the sample file does have a slight alteration in the head line of HTML, `<link rel="stylesheet" href="./dist/style.css">`, where the `href` will path through the `dist` folder and pull the styles from the `style.css` in order to render correctly.]
+
+  A sample of a team profile generated with the application can be found in the `Links` section labeled `Sample Team Page`.  The repo made to deploy the sameple page can be found in the `Links` section labeled `Sample Team Page Repo`.
 
   ## Links 
   
-  Repo:  https://github.com/JonWong2020/team-profile-generator
+  * Repo:  https://github.com/JonWong2020/team-profile-generator
 
-  Demo Link:  https://drive.google.com/file/d/1Bc55uw22C1k3iMil28paRYq-L6n76FbM/view
+  *  Demo Link:  https://drive.google.com/file/d/1Bc55uw22C1k3iMil28paRYq-L6n76FbM/view
+
+  * Sample Team Page: https://jonwong2020.github.io/team-profile-generator-example/
+
+  * Sample Team Page Repo:  https://github.com/JonWong2020/team-profile-generator-example
   
   ## Questions
   Have questions about this project?  
