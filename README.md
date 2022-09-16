@@ -17,7 +17,7 @@
   ## Usage
   To use the applicaiton you will need node.js and you can simply clone the repository onto your local system.  Once cloned, run in the command line `node index.js` in your console and you will be prompted to fill out questions for your team.  Below you can view the a demo of the application if on Github.
 
-
+https://user-images.githubusercontent.com/110364895/190562448-7436c7c2-ed75-4978-937f-f9daa0600df6.mp4
 
   Otherwise, you can use the link in the `Links` section to view the video.
   
