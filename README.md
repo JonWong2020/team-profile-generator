@@ -28,7 +28,9 @@
   Contributors:  Jonathan N. Wong
   
   ## Tests
-  A sample of a team profile generated with the application can be found in the repo and will be labed:  `my-team-sample.html`.  
+  A sample of a team profile generated with the application can be found in the repo and will be labed:  `my-team-sample.html`.
+  
+  [Please Note:  the sample file does have a slight alteration in the head line of HTML, `<link rel="stylesheet" href="./dist/style.css">`, where the `href` will path through the `dist` folder and pull the styles from the `style.css` in order to render correctly.]
 
   ## Links 
   
