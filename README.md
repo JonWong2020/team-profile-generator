@@ -15,7 +15,7 @@
   An application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.  
   
   ## Usage
-  To use the applicaiton, simply clone the repository onto your local system.  Once cloned, run in the command line `node run start` in your console and you will be prompted to fill out questions for your team.  Below you can view the a demo of the application if on Github.
+  To use the applicaiton you will need node.js and you can simply clone the repository onto your local system.  Once cloned, run in the command line `node index.js` in your console and you will be prompted to fill out questions for your team.  Below you can view the a demo of the application if on Github.
 
 
 
